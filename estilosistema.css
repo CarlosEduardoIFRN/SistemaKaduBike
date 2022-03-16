@@ -1,0 +1,25 @@
+body {
+	background-color: black;
+}
+
+label {
+	color: white;
+}
+
+button {
+	display: block;
+	background-color: red;
+	border-radius: 5px;
+}
+
+table {
+	background-color: white;
+	border-radius: 10px;
+	border-color: red;
+}
+
+img {
+	position: absolute;
+	left: 50%;
+}
+
